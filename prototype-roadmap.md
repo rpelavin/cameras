@@ -8,6 +8,8 @@ Prototype now, with the long-term intent to **commercialize** a low-cost, transp
 
 ## 🧩 Phase 1: Dual-Track Prototype (0–3 Months)
 
+> 📋 See [Prototype Shopping List](prototype-shopping-list.md) for hardware and tools needed for this phase.
+
 ### Track A — Cloud-Only Baseline
 - **Pipeline:** RTSP → Kinesis Video Streams → S3 → Lambda (event tagging)
 - **Objectives:**
