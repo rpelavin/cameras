@@ -15,9 +15,9 @@ Track recommended hardware, accessories, and tools needed for building and testi
 | 💻 Edge Device | Raspberry Pi 4 (4GB or 8GB) | ☐ Existing hardware |
 | ⚙️ Accessory | [**TP-Link TL-POE150S PoE Injector**](https://www.tp-link.com/us/business-networking/accessory/tl-poe150s/) | [View on Amazon](https://www.amazon.com/TP-LINK-TL-PoE150S-Injector-Adapter-Compliant/dp/B001PS9E5I) |
 | ⚙️ Accessory | [**Jadaol Cat6 Flat Ethernet Cable (PoE Compatible)**](https://www.amazon.com/dp/B018BCJKE0) | [View on Amazon](https://www.amazon.com/dp/B018BCJKE0) |
-| ⚙️ Accessory | MicroSD Card (128 GB+) | ☐ |
+| ⚙️ Accessory | [**Samsung PRO Endurance 256 GB microSDXC (surveillance‑grade)**](https://www.amazon.com/SAMSUNG-Endurance-MicroSDXC-Adapter-security/dp/B09WB3D5GQ) | [View on Amazon](https://www.amazon.com/SAMSUNG-Endurance-MicroSDXC-Adapter-security/dp/B09WB3D5GQ) |
 
 ---
 
 *Author: Ryan Pelavin*  
-*Revision: v0.5 – Added Jadaol Cat6 cable*
+*Revision: v0.6 – Added Samsung PRO Endurance 256 GB microSD card*
