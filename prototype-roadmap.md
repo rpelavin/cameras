@@ -60,10 +60,11 @@ Prototype now, with the long-term intent to **commercialize** a low-cost, transp
 
 ## 🚀 Long-Term Goal
 Evolve into a **commercial solution** for privacy-conscious homes and small businesses:
-- Event-driven, AWS-native camera platform.
+- Event-driven, cloud-native camera platform.
 - Optional AI-based event summaries (Rekognition / Bedrock).
 - Self-hosted or managed models.
 - Hardware kits for plug-and-play edge ingestion.
+- Potential future flexibility: deploy on **AWS, Azure, or GCP**.
 
 ---
 
@@ -76,4 +77,4 @@ Evolve into a **commercial solution** for privacy-conscious homes and small busi
 ---
 
 *Author: Ryan Pelavin*  
-*Revision: v0.1 – Prototype Roadmap*
+*Revision: v0.2 – Prototype Roadmap*
