@@ -49,6 +49,16 @@ Prototype now, with the long-term intent to **commercialize** a low-cost, transp
 - Add alerts (Telegram, email).
 - Support multiple cameras.
 - Test with friends/family in their own AWS accounts.
+- **Edge Hardware Track (Optional): High-Performance Edge AI Node**
+  - Introduce an edge AI device (e.g., **NVIDIA Jetson Orin Nano / Orin Nano Super**, **Google Coral Dev Board** + USB Accelerator, or similar) to run on-device inference and smart event filtering.
+  - **Objectives:**
+    - Run person/vehicle detection locally (e.g., YOLO/TensorRT or TFLite) across one or more RTSP streams.
+    - Compare Pi-based edge pipeline vs. edge-AI node for **latency**, **upload volume**, and **missed-event rate**.
+    - Measure **power draw** and **thermals**; validate enclosure/cooling requirements.
+  - **Deliverables:**
+    - Containerized edge service (Docker) for inference + local buffering + AWS publishing (MQTT/SNS/S3 presigned uploads).
+    - Metrics dashboard (Grafana/CloudWatch) tracking inference latency, clip frequency, and bandwidth saved.
+    - Report: **edge vs. cloud cost per camera-hour** and recommendation for Phase 3 hardware kit.
 - Gather cost, reliability, and feedback data.
 
 ---
